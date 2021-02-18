@@ -1,0 +1,13 @@
+certifi==2020.12.5
+Flask
+itsdangerous==1.1.0
+Jinja2
+joblib
+MarkupSafe==1.1.1
+mkl-fft==1.2.0
+mkl-random==1.1.1
+mkl-service==2.3.0
+numpy
+scikit-learn
+scipy
+wincertstore==0.2
